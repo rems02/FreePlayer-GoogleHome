@@ -29,7 +29,7 @@
 #  Renseigner: le code de votre télécommande dans "remote"
 #  changer éventuellement hd=2 pour votre deuxieme Freeplayer etc...
 #  .../FreeBox-GoogleHome.php  remote=<CodeTélécommande> hd=1 message="#message#"  
-#  Documentation: http://domotique-home.fr/gestion-simple-de-la-freebox-avec-google-homme-et-ifttt/  
+#  Documentation: https://bit.ly/3cMiAVY 
 ##################
   
 ## protection de l'url ##
